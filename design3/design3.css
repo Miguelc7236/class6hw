@@ -1,0 +1,39 @@
+*{
+    box-sizing:border-box;
+}
+
+footer, header{
+    border: 3px solid red;
+    height: 100px;
+    clear:both;
+}
+
+.second{
+    border: 3px solid purple;
+    height: 200px;
+    width: 40%;
+    display: inline-block;
+}   
+.first{
+    border: 3px solid blue;
+    height: 200px;
+    width: 20%;
+    display: inline-block; 
+
+}
+
+.third{
+    border: 3px solid green; 
+    height: 200px;
+    width: 20%;
+    display: inline-block;
+
+}
+.fourth{
+    border: 3px solid black;
+    height: 200px;
+    width: 20%;
+    display: inline-block;
+
+}
+
