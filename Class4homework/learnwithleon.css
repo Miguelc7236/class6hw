@@ -1,0 +1,46 @@
+body{
+    border: 6px solid lightgreen;
+    background: skyblue ;
+    padding: 20px
+}
+header > h1{
+   color: white  ;
+   font-style: italic;
+   
+}
+header > span{
+    color: white ;
+    padding-right: 2px ;
+    border-right: 2px solid  grey  ;
+    
+}
+ nav{
+    display:inline-block;
+    
+   
+}
+section {
+    color: white ;
+}
+
+section > img{
+    float: right;
+}
+header, footer{
+    text-align: center;
+
+    
+}
+li{
+    display:inline-block;
+}
+a{
+    color: green;
+}
+section> p{
+    line-height: 1.5;
+}
+.first,.second{
+    padding-right: 2px;
+    border-right: 2px solid grey;
+}
